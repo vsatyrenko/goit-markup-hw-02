@@ -6,7 +6,7 @@
     --back-fone-color: #F5F5F5;
     --white-color:  #FFFFFF;
     --block-color: #2F303A;
-
+    --back-buttons-color: #F5F4FA;
 }
 
 .link {
@@ -106,6 +106,7 @@ line-height: 1.19;
 .model-open-buttons{
     font-size: 16px;
     line-height: 1.62;
+    background: var(--back-buttons-color);
 }
 .model-open-buttons:hover,
 .model-open-buttons:focus {
